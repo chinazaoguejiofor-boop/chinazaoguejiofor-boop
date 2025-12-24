@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jacintha Oguejiofor</h1>
 <h2 align="center"><br/><a href="https://github.com/chinazaoguejiofor-boop/">Business Intelligence and Data Analyst</h2>
 
-- I’m a data analyst and business analyst, and i help businesses make intelligible/data driven decisions by drawing out actionable insights from business data. I also help in designing structured database for business
+- I’m a recent graduate of Mathematics and a certified Data Analyst. I help businesses make intelligent data driven decisions by gnenerating Key perforamnce metrics andstrategic insights from business data.
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: chinazandidiamakaoguejiofor@gmail.com
