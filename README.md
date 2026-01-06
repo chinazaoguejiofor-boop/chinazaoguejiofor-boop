@@ -16,23 +16,11 @@
 - <b>International Breweries</b>
 <img src= "international brew dashboard.png" width="280" />
 
-  -  [Data Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  -  [Data Visualization](https://github.com/joshmadakor1/Algorithms-Practice)
-
 - <b>BlinkIT Grocery Store </b>
 <img src= "BlinkIT Dashboard.png" width="290" />
 
-  - [Data Cleaning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Data Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Visualization](https://github.com/joshmadakor1/Algorithms-Practice)
-
 - <b>Atiliq Supermart </b>
 <img src= "Atiliq Mart Dashboard.png" width="290" />
-
-  - [Data Cleaning](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Visualisation](https://github.com/joshmadakor1/Algorithms-Practice)
-
 
 
 
